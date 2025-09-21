@@ -1,8 +1,24 @@
-[[local-agent]]
+[[agent]]
 path = "agents/firecrawl"
+type = "local"
 
-[[local-agent]]
+[[agent]]
 path = "agents/github"
+type = "local"
 
-[[local-agent]]
+[[agent]]
 path = "agents/interface"
+type = "local"
+
+[[agent]]
+path = "agents/pr-report"
+type = "local"
+
+[[agent]]
+path = "agents/borkov"
+type = "local"
+
+[[agent]]
+image = "borkov-agent"
+name = "borkov"
+type = "docker"

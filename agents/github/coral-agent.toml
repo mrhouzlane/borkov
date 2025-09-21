@@ -1,7 +1,6 @@
 [agent]
 name = "github"
 version = "0.0.1"
-description = "Github agent that can create, update, and search for repositories and files, as well as view/edit issues and pull requests (depending on the permissions of its access token)"
 
 [options.MODEL_API_KEY]
 type = "string"

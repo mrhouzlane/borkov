@@ -1,7 +1,6 @@
 [agent]
 name = "firecrawl"
 version = "0.0.1"
-description = "Agent that can search & scrape the web, providing easy to parse markdown"
 
 [options.MODEL_API_KEY]
 type = "string"

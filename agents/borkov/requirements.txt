@@ -1,0 +1,10 @@
+# Dependencies are managed in pyproject.toml
+# This file is kept for compatibility but not actively used
+# Use: uv sync to install dependenciesnumpy
+pandas
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-mcp-adapters
+langchain-google-genai
